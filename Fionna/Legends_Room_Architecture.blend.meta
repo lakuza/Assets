@@ -1,0 +1,181 @@
+fileFormatVersion: 2
+guid: 8747fc6b13e77f044aacea15e68a7644
+timeCreated: 1541217884
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Arrow
+    100002: ArrowLights1
+    100004: ArrowLights2
+    100006: ArrowLights3
+    100008: Column
+    100010: Curlicue
+    100012: Curtains
+    100014: Frames
+    100016: //RootNode
+    100018: Marquee
+    100020: Marquee_001
+    100022: Marquee_002
+    100024: Marquee_003
+    100026: Medal
+    100028: Plane
+    100030: Scallops
+    100032: Spotlight
+    100034: Spotlight_001
+    100036: Column_001
+    100038: Column_002
+    100040: Column_003
+    400000: Arrow
+    400002: ArrowLights1
+    400004: ArrowLights2
+    400006: ArrowLights3
+    400008: Column
+    400010: Curlicue
+    400012: Curtains
+    400014: Frames
+    400016: //RootNode
+    400018: Marquee
+    400020: Marquee_001
+    400022: Marquee_002
+    400024: Marquee_003
+    400026: Medal
+    400028: Plane
+    400030: Scallops
+    400032: Spotlight
+    400034: Spotlight_001
+    400036: Column_001
+    400038: Column_002
+    400040: Column_003
+    2300000: Arrow
+    2300002: ArrowLights1
+    2300004: ArrowLights2
+    2300006: ArrowLights3
+    2300008: Column
+    2300010: Curlicue
+    2300012: Curtains
+    2300014: Frames
+    2300016: Marquee
+    2300018: Marquee_001
+    2300020: Marquee_002
+    2300022: Marquee_003
+    2300024: Medal
+    2300026: Plane
+    2300028: Scallops
+    2300030: Spotlight
+    2300032: Spotlight_001
+    2300034: Column_001
+    2300036: Column_002
+    2300038: Column_003
+    3300000: Arrow
+    3300002: ArrowLights1
+    3300004: ArrowLights2
+    3300006: ArrowLights3
+    3300008: Column
+    3300010: Curlicue
+    3300012: Curtains
+    3300014: Frames
+    3300016: Marquee
+    3300018: Marquee_001
+    3300020: Marquee_002
+    3300022: Marquee_003
+    3300024: Medal
+    3300026: Plane
+    3300028: Scallops
+    3300030: Spotlight
+    3300032: Spotlight_001
+    3300034: Column_001
+    3300036: Column_002
+    3300038: Column_003
+    4300000: Marquee_003
+    4300002: Spotlight_001
+    4300004: Spotlight
+    4300006: Plane
+    4300008: Marquee_002
+    4300010: Marquee_001
+    4300012: Marquee
+    4300014: Curtains
+    4300016: Scallops
+    4300018: ArrowLights3
+    4300020: ArrowLights2
+    4300022: ArrowLights1
+    4300024: Arrow
+    4300026: Medal
+    4300028: Curlicue
+    4300030: Column
+    4300032: Frames
+    4300034: Column_003
+    4300036: Column_002
+    4300038: Column_001
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

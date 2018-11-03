@@ -1,0 +1,213 @@
+fileFormatVersion: 2
+guid: 7066a6ce8daad6f4b9d0f91cfd16841b
+timeCreated: 1541218224
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Bicep_L
+    100004: Bicep_R
+    100006: Body
+    100008: Body_original
+    100010: Chest
+    100012: Ear_L
+    100014: Ear_R
+    100016: //RootNode
+    100018: Foot_L
+    100020: Foot_R
+    100022: Forearm_L
+    100024: Forearm_R
+    100026: Hair1
+    100028: Hair2
+    100030: Hair3
+    100032: Hand_L
+    100034: Hand_R
+    100036: Head
+    100038: Hips
+    100040: Jaw
+    100042: LeftEye
+    100044: middle_distal_L
+    100046: middle_distal_R
+    100048: Middle_median_L
+    100050: middle_median_R
+    100052: middle_proximal_L
+    100054: middle_proximal_R
+    100056: Neck
+    100058: pinky-proximal_L
+    100060: pinky-proximal_R
+    100062: pinky_distal_L
+    100064: pinky_distal_R
+    100066: pinky_median_L
+    100068: pinky_median_R
+    100070: pointer_distal_L
+    100072: pointer_distal_R
+    100074: pointer_median_L
+    100076: pointer_median_R
+    100078: pointer_proximal_L
+    100080: pointer_proximal_R
+    100082: RightEye
+    100084: ring_distal_L
+    100086: ring_distal_R_001
+    100088: ring_median_L
+    100090: ring_median_R_001
+    100092: ring_proximal_L
+    100094: ring_proximal_R
+    100096: Shin_L
+    100098: Shin_R
+    100100: Shoulder_L
+    100102: Shoulder_R
+    100104: skirt_back_L
+    100106: skirt_back_L_001
+    100108: skirt_front_L
+    100110: skirt_front_L_001
+    100112: Spine
+    100114: Thigh_L
+    100116: Thigh_R
+    100118: thumb__distal_L
+    100120: thumb__distal_R
+    100122: thumb_median_L
+    100124: thumb_median_R
+    100126: thumb_proximal_L
+    100128: thumb_proximal_R
+    400000: Armature
+    400002: Bicep_L
+    400004: Bicep_R
+    400006: Body
+    400008: Body_original
+    400010: Chest
+    400012: Ear_L
+    400014: Ear_R
+    400016: //RootNode
+    400018: Foot_L
+    400020: Foot_R
+    400022: Forearm_L
+    400024: Forearm_R
+    400026: Hair1
+    400028: Hair2
+    400030: Hair3
+    400032: Hand_L
+    400034: Hand_R
+    400036: Head
+    400038: Hips
+    400040: Jaw
+    400042: LeftEye
+    400044: middle_distal_L
+    400046: middle_distal_R
+    400048: Middle_median_L
+    400050: middle_median_R
+    400052: middle_proximal_L
+    400054: middle_proximal_R
+    400056: Neck
+    400058: pinky-proximal_L
+    400060: pinky-proximal_R
+    400062: pinky_distal_L
+    400064: pinky_distal_R
+    400066: pinky_median_L
+    400068: pinky_median_R
+    400070: pointer_distal_L
+    400072: pointer_distal_R
+    400074: pointer_median_L
+    400076: pointer_median_R
+    400078: pointer_proximal_L
+    400080: pointer_proximal_R
+    400082: RightEye
+    400084: ring_distal_L
+    400086: ring_distal_R_001
+    400088: ring_median_L
+    400090: ring_median_R_001
+    400092: ring_proximal_L
+    400094: ring_proximal_R
+    400096: Shin_L
+    400098: Shin_R
+    400100: Shoulder_L
+    400102: Shoulder_R
+    400104: skirt_back_L
+    400106: skirt_back_L_001
+    400108: skirt_front_L
+    400110: skirt_front_L_001
+    400112: Spine
+    400114: Thigh_L
+    400116: Thigh_R
+    400118: thumb__distal_L
+    400120: thumb__distal_R
+    400122: thumb_median_L
+    400124: thumb_median_R
+    400126: thumb_proximal_L
+    400128: thumb_proximal_R
+    4300000: Body
+    4300002: Body_original
+    7400000: Default Take
+    9500000: //RootNode
+    13700000: Body
+    13700002: Body_original
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
